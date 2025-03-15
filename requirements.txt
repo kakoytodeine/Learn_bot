@@ -1,0 +1,8 @@
+certifi==2025.1.31
+cffi==1.17.1
+cryptography==44.0.2
+decorator==5.2.1
+future==1.0.0
+pycparser==2.22
+python-telegram-bot==12.7
+tornado==6.4.2
